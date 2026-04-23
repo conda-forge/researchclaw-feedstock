@@ -1,4 +1,4 @@
-{% set version = "0.1.2" %}
+{% set version = "0.1.4" %}
 
 
 package:
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/researchclaw/researchclaw-{{ version }}.tar.gz
-  sha256: f38874cb6523d2c92e88c8af9d5ef88ce4a37799e13a19c132642fe279bbedc0
+  sha256: 03cb8cad993bd53834d391bb7fc98dcfdb66df5be46c263769b410c23fbbc266
 
 build:
   entry_points:
